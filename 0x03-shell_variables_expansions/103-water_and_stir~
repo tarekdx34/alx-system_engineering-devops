@@ -1,0 +1,2 @@
+#!/bin/bash
+$WATER | tr water 01234 | $((5#&WATER)) ; $STIR | tr stir. 01234 | $((5#&STIR)) ; $(8#(echo $(($WATER+$STIR)))) | tr 01234567 bestchol
